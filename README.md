@@ -56,7 +56,6 @@ The Vehicle Damage Factor is a critical input in pavement design — it converts
 
 ## 🏗️ Architecture / Workflow Diagram
 
-![Architecture Diagram](architecture-diagram.png)
 
 *Pipeline: field data collection (traffic + axle load surveys) → data processing → VDF computation → design traffic (CSA) estimation → flexible/rigid pavement design → final layer thicknesses and drawings.*
 
