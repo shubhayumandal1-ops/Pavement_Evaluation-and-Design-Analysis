@@ -112,8 +112,8 @@ The Vehicle Damage Factor is a critical input in pavement design — it converts
 
 ## 👤 Author
 
-*[Your Name]*
-*[Your Institution / Department, if applicable]*
+*Shubhayu Mandal*
+*Civil Engineering Undergrad at NIT Rourkela*
 
 ---
 
