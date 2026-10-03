@@ -735,8 +735,7 @@ The project can be implemented using a combination of engineering calculation an
 | Tool                 | Application                             |
 | -------------------- | --------------------------------------- |
 | 📊 Microsoft Excel   | Engineering calculations & tabulation   |
-| 🐍 Python            | Numerical analysis / automation         |
-| 📈 Matplotlib        | Engineering plots                       |
+|     IITPAVE           | Pavement Thickness Calculation          |
 | 📐 IRC Guidelines    | Design methodology                      |
 | 📄 PDF Documentation | Technical reporting                     |
 | 🐙 GitHub            | Version control & project documentation |
