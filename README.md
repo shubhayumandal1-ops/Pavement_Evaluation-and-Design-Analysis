@@ -1,5 +1,3 @@
-Yes — I’d make it much more like a **professional engineering research repository**: visual workflow diagrams, collapsible technical sections, calculation methodology, results placeholders, badges, navigation, and interactive GitHub elements. I’ll remove the Objectives section entirely.
-
 # 🛣️ Pavement Evaluation & Design Analysis
 
 ### Technical Project & Research · August 2026
@@ -790,5 +788,3 @@ The repository is intended as a technical reference for applications of pavement
 <p align="center">
   <i>Designed, analyzed, and documented using engineering-based methodologies.</i>
 </p>
-
-**One important GitHub detail:** the `mermaid` flowcharts above will render natively on modern GitHub README pages, while the `<details>` sections give you the interactive expand/collapse behavior. You can also add your actual Excel/PDF files and link them directly from the relevant sections for an even more complete research repository.
